@@ -52,8 +52,6 @@ The raw book text is not included in this repository. Download public-domain tex
 
 ## Results
 
-## Results
-
 Training used early stopping based on validation loss.
 
 | Metric | Best epoch | Result |
